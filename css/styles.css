@@ -101,6 +101,7 @@ img {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .header-contacts-item {
   font-weight: 400;
@@ -315,4 +316,5 @@ img {
   padding-left: 16px;
   padding-right: 16px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
